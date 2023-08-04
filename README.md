@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahadır</h1>
 <h3 align="center">A passionate Web developer and Mobile Application developer from Turkey.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif"/>
+<iframe src="https://gifer.com/embed/3AyY" width=480 height=275.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagaturbey&label=Profile%20views&color=0e75b6&style=flat" alt="bagaturbey" /> </p>
 
