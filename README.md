@@ -1,7 +1,7 @@
 ![MasterHead](https://s11.gifyu.com/images/Sc6gt.gif)
 <h1 align="center">Hi 👋, I'm Bahadır</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagaturbey&label=Profile%20views&color=0e75b6&style=flat" alt="bagaturbey" /> </p>
 <h3 align="center">A passionate Web developer and Mobile Application developer from Turkey.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagaturbey&label=Profile%20views&color=0e75b6&style=flat" alt="bagaturbey" /> </p>
 <p align="center" > <img   alt="Coding" width="400" src="https://s11.gifyu.com/images/Sc6gu.gif"> </p>
 
 - 💬 Ask me about **Html, Css & Javascript**
