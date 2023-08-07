@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/BagaturBey/BagaturBey/assets/107503923/3975d225-f280-4202-88b4-9bef872e9572)
 <h1 align="center">Hi 👋🏻, I'm Bahadır</h1>
 <h3 align="center">A passionate Web developer and Mobile Application developer from Turkey.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagaturbey&label=Profile%20views&color=0e75b6&style=flat" alt="bagaturbey" /> </p>
+
 <p align="center" > <img   alt="Coding" width="400" src="https://s11.gifyu.com/images/Sc6gu.gif"> </p>
 
 - 💬 Ask me about **Html, Css & Javascript**
