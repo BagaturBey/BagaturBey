@@ -3,7 +3,7 @@
 
 <p align="center" > <img   alt="Coding" width="400" src="https://s11.gifyu.com/images/Sc6gu.gif"> </p>
 
-<h3 align="center">Personal Certificates:</h3>
+<h3 align="center">Certificates:</h3>
 <p align="center"> <a  href="https://github.com/BagaturBey/BagaturBey/assets/107503923/cb8df5f9-b891-4297-8477-95a240918b24" target="_blank">Javascript</a> </p>
 <p align="center"><a  href="https://github.com/BagaturBey/BagaturBey/assets/107503923/27ed729e-26c1-46e2-bc78-2081319ac3fb" target="_blank">Javascript Temelleri</a></p>
 <p align="center"> <a  href="https://github.com/BagaturBey/BagaturBey/assets/107503923/7c12fecd-cf13-4f05-8d40-71806d45d03f" target="_blank">HTML</a></p>
