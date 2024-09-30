@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋🏻, I'm Bahadır</h1>
-<h3 align="center">A passionate Web developer and Mobile Application developer from Turkey.</h3>
+<h3 align="center">A passionate Web developer from Turkey.</h3>
 
 <p align="center" > <img   alt="Coding" width="400" src="https://s11.gifyu.com/images/Sc6gu.gif"> </p>
 
